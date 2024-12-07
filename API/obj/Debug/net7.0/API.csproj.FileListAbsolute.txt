@@ -1,0 +1,508 @@
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\appsettings.json
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\API.exe
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\API.deps.json
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\API.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\API.pdb
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\FoolproofValidation.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\IdentityModel.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\IdentityServer4.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\IdentityServer4.AccessTokenValidation.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\IdentityServer4.Storage.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Serilog.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Core.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\DAL.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Service.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Service.pdb
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\Core.pdb
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\bin\Debug\net7.0\DAL.pdb
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\API.csproj.Up2Date
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\API.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\API.pdb
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\New folder\New folder\Core\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\appsettings.json
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\API.exe
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\API.deps.json
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\API.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\API.pdb
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\FoolproofValidation.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\IdentityModel.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\IdentityServer4.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\IdentityServer4.AccessTokenValidation.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\IdentityServer4.Storage.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\System.Web.Mvc.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\System.Web.Razor.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\System.Web.Helpers.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\System.Web.WebPages.Deployment.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\System.Web.WebPages.Razor.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\System.Web.WebPages.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.Web.Infrastructure.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\PdfSharp.Charting.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\PdfSharp.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Serilog.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\de\PdfSharp.Charting.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\de\PdfSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Core.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\DAL.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Service.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Service.pdb
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\Core.pdb
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\bin\Debug\net7.0\DAL.pdb
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\API.csproj.Up2Date
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\API.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\API.pdb
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\appsettings.json
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\API.exe
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\API.deps.json
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\API.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\API.pdb
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\FoolproofValidation.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\IdentityModel.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\IdentityServer4.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\IdentityServer4.AccessTokenValidation.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\IdentityServer4.Storage.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\System.Web.Mvc.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\System.Web.Razor.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\System.Web.Helpers.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\System.Web.WebPages.Deployment.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\System.Web.WebPages.Razor.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\System.Web.WebPages.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.Web.Infrastructure.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\PdfSharp.Charting.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\PdfSharp.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Serilog.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\de\PdfSharp.Charting.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\de\PdfSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Core.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\DAL.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Service.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Service.pdb
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\Core.pdb
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\bin\Debug\net7.0\DAL.pdb
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\API.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\API.pdb
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\API\obj\Debug\net7.0\ref\API.dll

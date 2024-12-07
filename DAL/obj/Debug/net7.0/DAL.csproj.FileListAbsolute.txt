@@ -1,0 +1,45 @@
+C:\Users\Administrator\Desktop\New folder\New folder\Core\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\New folder\Core\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\New folder\New folder\Core\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\New folder\New folder\Core\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\New folder\New folder\Core\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder\New folder\Core\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\Administrator\Desktop\New folder\New folder\Core\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\Administrator\Desktop\New folder\New folder\Core\DAL\bin\Debug\net7.0\Core.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\DAL\bin\Debug\net7.0\Core.pdb
+C:\Users\Administrator\Desktop\New folder\New folder\Core\DAL\obj\Debug\net7.0\DAL.csproj.Up2Date
+C:\Users\Administrator\Desktop\New folder\New folder\Core\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\Administrator\Desktop\New folder\New folder\Core\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\DAL\bin\Debug\net7.0\Core.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\DAL\bin\Debug\net7.0\Core.pdb
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\DAL\obj\Debug\net7.0\DAL.csproj.Up2Date
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\DAL\bin\Debug\net7.0\Core.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\DAL\bin\Debug\net7.0\Core.pdb
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\DAL\obj\Debug\net7.0\ref\DAL.dll

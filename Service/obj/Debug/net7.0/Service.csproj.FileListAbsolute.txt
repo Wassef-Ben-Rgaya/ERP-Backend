@@ -1,0 +1,51 @@
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\bin\Debug\net7.0\Service.deps.json
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\bin\Debug\net7.0\Service.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\bin\Debug\net7.0\Service.pdb
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\bin\Debug\net7.0\Core.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\bin\Debug\net7.0\DAL.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\bin\Debug\net7.0\Core.pdb
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\bin\Debug\net7.0\DAL.pdb
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\obj\Debug\net7.0\Service.csproj.Up2Date
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\obj\Debug\net7.0\Service.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\obj\Debug\net7.0\refint\Service.dll
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\obj\Debug\net7.0\Service.pdb
+C:\Users\Administrator\Desktop\New folder\New folder\Core\Service\obj\Debug\net7.0\ref\Service.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\bin\Debug\net7.0\Service.deps.json
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\bin\Debug\net7.0\Service.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\bin\Debug\net7.0\Service.pdb
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\bin\Debug\net7.0\Core.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\bin\Debug\net7.0\DAL.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\bin\Debug\net7.0\Core.pdb
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\bin\Debug\net7.0\DAL.pdb
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\obj\Debug\net7.0\Service.csproj.Up2Date
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\obj\Debug\net7.0\Service.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\obj\Debug\net7.0\refint\Service.dll
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\obj\Debug\net7.0\Service.pdb
+C:\Users\water\OneDrive\Bureau\ERP Exam\Core\Core\Service\obj\Debug\net7.0\ref\Service.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\bin\Debug\net7.0\Service.deps.json
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\bin\Debug\net7.0\Service.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\bin\Debug\net7.0\Service.pdb
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\bin\Debug\net7.0\Core.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\bin\Debug\net7.0\DAL.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\bin\Debug\net7.0\Core.pdb
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\bin\Debug\net7.0\DAL.pdb
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\obj\Debug\net7.0\Service.csproj.CopyComplete
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\obj\Debug\net7.0\Service.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\obj\Debug\net7.0\refint\Service.dll
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\obj\Debug\net7.0\Service.pdb
+C:\Users\wassef\OneDrive\Desktop\projet PFAA\Core\Service\obj\Debug\net7.0\ref\Service.dll

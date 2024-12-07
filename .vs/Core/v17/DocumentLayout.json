@@ -1,0 +1,1185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\core\\entities\\personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|solutionrelative:core\\entities\\personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\personneldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\personneldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\api\\controlleurs\\personnelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|solutionrelative:api\\controlleurs\\personnelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\iservice\\ipersonnelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\iservice\\ipersonnelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\service\\payeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\service\\payeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\payedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\payedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\api\\controlleurs\\payecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|solutionrelative:api\\controlleurs\\payecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\core\\entities\\retard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|solutionrelative:core\\entities\\retard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\api\\log\\log20240608.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|solutionrelative:api\\log\\log20240608.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\core\\entities\\paye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|solutionrelative:core\\entities\\paye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\iservice\\ipayeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\iservice\\ipayeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A27E8F8-63CF-4554-896C-C09F44508247}|DAL\\DAL.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\dal\\repository\\repositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A27E8F8-63CF-4554-896C-C09F44508247}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\repositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\service\\assiduiteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\service\\assiduiteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\api\\controlleurs\\departementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|solutionrelative:api\\controlleurs\\departementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\api\\controlleurs\\congecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|solutionrelative:api\\controlleurs\\congecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\api\\controlleurs\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|solutionrelative:api\\controlleurs\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\api\\controlleurs\\assiduitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|solutionrelative:api\\controlleurs\\assiduitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\absencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\absencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\core\\entities\\absence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|solutionrelative:core\\entities\\absence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\service\\personnelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\service\\personnelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\api\\log\\log20240607.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|solutionrelative:api\\log\\log20240607.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\common\\mappings\\imapfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\common\\mappings\\imapfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\core\\entities\\d\u00E9partement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|solutionrelative:core\\entities\\d\u00E9partement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\supplementairedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\supplementairedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\retarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\retarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\horairedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\horairedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\departementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\departementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\congedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\congedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\assiduitedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\assiduitedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\combinedpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\combinedpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\authenticationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\authenticationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF471573-99E7-415C-B762-76517508D5A1}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A27E8F8-63CF-4554-896C-C09F44508247}|DAL\\DAL.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\dal\\repository\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A27E8F8-63CF-4554-896C-C09F44508247}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A27E8F8-63CF-4554-896C-C09F44508247}|DAL\\DAL.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\dal\\irepository\\irepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A27E8F8-63CF-4554-896C-C09F44508247}|DAL\\DAL.csproj|solutionrelative:dal\\irepository\\irepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A27E8F8-63CF-4554-896C-C09F44508247}|DAL\\DAL.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\dal\\irepository\\idbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A27E8F8-63CF-4554-896C-C09F44508247}|DAL\\DAL.csproj|solutionrelative:dal\\irepository\\idbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A27E8F8-63CF-4554-896C-C09F44508247}|DAL\\DAL.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\dal\\injections\\repositoryinjectionmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A27E8F8-63CF-4554-896C-C09F44508247}|DAL\\DAL.csproj|solutionrelative:dal\\injections\\repositoryinjectionmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A27E8F8-63CF-4554-896C-C09F44508247}|DAL\\DAL.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A27E8F8-63CF-4554-896C-C09F44508247}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\core\\entities\\erpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|solutionrelative:core\\entities\\erpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\iservice\\iassiduiteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\iservice\\iassiduiteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\service\\serviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\service\\serviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\service\\departementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\service\\departementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\service\\congeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\service\\congeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\iservice\\iserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\iservice\\iserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\iservice\\idepartementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\iservice\\idepartementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\iservice\\icongeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\iservice\\icongeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\core\\entities\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|solutionrelative:core\\entities\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\core\\entities\\supplementaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|solutionrelative:core\\entities\\supplementaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\core\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|solutionrelative:core\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\core\\entities\\horaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|solutionrelative:core\\entities\\horaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\core\\entities\\conge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|solutionrelative:core\\entities\\conge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\core\\entities\\assiduite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7572B746-A929-450A-B09A-C47B58B1E225}|Core\\Core.csproj|solutionrelative:core\\entities\\assiduite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\injectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\injectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\repository\\repositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\repository\\repositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|c:\\users\\water\\onedrive\\bureau\\erp exam\\core\\core\\service\\dto\\repository\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E6D5FD-7287-4357-9E2B-B1F800BBFA9E}|Service\\Service.csproj|solutionrelative:service\\dto\\repository\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Retard.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Retard.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Retard.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Retard.cs",
+              "RelativeToolTip": "Core\\Entities\\Retard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:54:56.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personnel.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Personnel.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Personnel.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Personnel.cs",
+              "RelativeToolTip": "Core\\Entities\\Personnel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:54:50.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonnelDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\PersonnelDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\PersonnelDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\PersonnelDto.cs",
+              "RelativeToolTip": "Service\\DTO\\PersonnelDto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:14:33.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PayeController.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\Controlleurs\\PayeController.cs",
+              "RelativeDocumentMoniker": "API\\Controlleurs\\PayeController.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\Controlleurs\\PayeController.cs",
+              "RelativeToolTip": "API\\Controlleurs\\PayeController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAswH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:54:24.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PayeDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\PayeDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\PayeDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\PayeDto.cs",
+              "RelativeToolTip": "Service\\DTO\\PayeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:16:43.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PayeService.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Service\\PayeService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\PayeService.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Service\\PayeService.cs",
+              "RelativeToolTip": "Service\\Service\\PayeService.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAswJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:52:16.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPersonnelService.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\IService\\IPersonnelService.cs",
+              "RelativeDocumentMoniker": "Service\\IService\\IPersonnelService.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\IService\\IPersonnelService.cs",
+              "RelativeToolTip": "Service\\IService\\IPersonnelService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:34:10.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonnelController.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\Controlleurs\\PersonnelController.cs",
+              "RelativeDocumentMoniker": "API\\Controlleurs\\PersonnelController.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\Controlleurs\\PersonnelController.cs",
+              "RelativeToolTip": "API\\Controlleurs\\PersonnelController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAswI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:53:45.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\RegisterDto.cs",
+              "RelativeToolTip": "Service\\DTO\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:52:37.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:37:55.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Paye.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Paye.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Paye.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Paye.cs",
+              "RelativeToolTip": "Core\\Entities\\Paye.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:54:41.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssiduiteService.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Service\\AssiduiteService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\AssiduiteService.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Service\\AssiduiteService.cs",
+              "RelativeToolTip": "Service\\Service\\AssiduiteService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAL4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:13:44.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "log20240608.txt",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\log\\log20240608.txt",
+              "RelativeDocumentMoniker": "API\\log\\log20240608.txt",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\log\\log20240608.txt",
+              "RelativeToolTip": "API\\log\\log20240608.txt",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAE8AAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-08T02:09:21.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T22:52:04.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\DAL\\Repository\\RepositoryAsync.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\RepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\DAL\\Repository\\RepositoryAsync.cs",
+              "RelativeToolTip": "DAL\\Repository\\RepositoryAsync.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwOMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:02:23.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPayeService.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\IService\\IPayeService.cs",
+              "RelativeDocumentMoniker": "Service\\IService\\IPayeService.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\IService\\IPayeService.cs",
+              "RelativeToolTip": "Service\\IService\\IPayeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:53:14.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartementController.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\Controlleurs\\DepartementController.cs",
+              "RelativeDocumentMoniker": "API\\Controlleurs\\DepartementController.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\Controlleurs\\DepartementController.cs",
+              "RelativeToolTip": "API\\Controlleurs\\DepartementController.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAcwNAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:53:47.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CongeController.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\Controlleurs\\CongeController.cs",
+              "RelativeDocumentMoniker": "API\\Controlleurs\\CongeController.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\Controlleurs\\CongeController.cs",
+              "RelativeToolTip": "API\\Controlleurs\\CongeController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAcwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:38:35.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\Controlleurs\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controlleurs\\AuthController.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\Controlleurs\\AuthController.cs",
+              "RelativeToolTip": "API\\Controlleurs\\AuthController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:53:59.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssiduiteController.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\Controlleurs\\AssiduiteController.cs",
+              "RelativeDocumentMoniker": "API\\Controlleurs\\AssiduiteController.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\Controlleurs\\AssiduiteController.cs",
+              "RelativeToolTip": "API\\Controlleurs\\AssiduiteController.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAswLEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:26:55.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Service\\AuthService.cs",
+              "RelativeToolTip": "Service\\Service\\AuthService.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAuwMYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:06:09.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AbsenceDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\AbsenceDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\AbsenceDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\AbsenceDto.cs",
+              "RelativeToolTip": "Service\\DTO\\AbsenceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:26:53.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Absence.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Absence.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Absence.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Absence.cs",
+              "RelativeToolTip": "Core\\Entities\\Absence.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:53:57.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PermissionDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\PermissionDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\PermissionDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\PermissionDto.cs",
+              "RelativeToolTip": "Service\\DTO\\PermissionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:25:45.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PersonnelService.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Service\\PersonnelService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\PersonnelService.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Service\\PersonnelService.cs",
+              "RelativeToolTip": "Service\\Service\\PersonnelService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8BAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:32:56.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "log20240607.txt",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\log\\log20240607.txt",
+              "RelativeDocumentMoniker": "API\\log\\log20240607.txt",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\log\\log20240607.txt",
+              "RelativeToolTip": "API\\log\\log20240607.txt",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-07T20:36:32.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Common\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Service\\Common\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:11:21.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IMapFrom.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Common\\Mappings\\IMapFrom.cs",
+              "RelativeDocumentMoniker": "Service\\Common\\Mappings\\IMapFrom.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Common\\Mappings\\IMapFrom.cs",
+              "RelativeToolTip": "Service\\Common\\Mappings\\IMapFrom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:11:18.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T22:51:08.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "D\u00E9partement.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\D\u00E9partement.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\D\u00E9partement.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\D\u00E9partement.cs",
+              "RelativeToolTip": "Core\\Entities\\D\u00E9partement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:54:30.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\IService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Service\\IService\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\IService\\IAuthService.cs",
+              "RelativeToolTip": "Service\\IService\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:07:55.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\TokenDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\TokenDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\TokenDto.cs",
+              "RelativeToolTip": "Service\\DTO\\TokenDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:27:32.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SupplementaireDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\SupplementaireDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\SupplementaireDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\SupplementaireDto.cs",
+              "RelativeToolTip": "Service\\DTO\\SupplementaireDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:23:34.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RetardDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\RetardDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\RetardDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\RetardDto.cs",
+              "RelativeToolTip": "Service\\DTO\\RetardDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:26:24.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RefreshTokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\RefreshTokenDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\RefreshTokenDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\RefreshTokenDto.cs",
+              "RelativeToolTip": "Service\\DTO\\RefreshTokenDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:29:19.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HoraireDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\HoraireDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\HoraireDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\HoraireDto.cs",
+              "RelativeToolTip": "Service\\DTO\\HoraireDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:22:59.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "Service\\DTO\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:28:10.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DepartementDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\DepartementDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\DepartementDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\DepartementDto.cs",
+              "RelativeToolTip": "Service\\DTO\\DepartementDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:13:25.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CongeDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\CongeDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\CongeDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\CongeDto.cs",
+              "RelativeToolTip": "Service\\DTO\\CongeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:15:27.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AssiduiteDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\AssiduiteDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\AssiduiteDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\AssiduiteDto.cs",
+              "RelativeToolTip": "Service\\DTO\\AssiduiteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:22:25.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CombinedPatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\CombinedPatientDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\CombinedPatientDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\CombinedPatientDto.cs",
+              "RelativeToolTip": "Service\\DTO\\CombinedPatientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:15:52.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AuthenticationDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\AuthenticationDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\AuthenticationDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\AuthenticationDto.cs",
+              "RelativeToolTip": "Service\\DTO\\AuthenticationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:32:45.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T22:56:09.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T20:58:06.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\DAL\\IRepository\\IDbContextFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepository\\IDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\DAL\\IRepository\\IDbContextFactory.cs",
+              "RelativeToolTip": "DAL\\IRepository\\IDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:01:36.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T21:00:11.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RepositoryInjectionModule.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\DAL\\Injections\\RepositoryInjectionModule.cs",
+              "RelativeDocumentMoniker": "DAL\\Injections\\RepositoryInjectionModule.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\DAL\\Injections\\RepositoryInjectionModule.cs",
+              "RelativeToolTip": "DAL\\Injections\\RepositoryInjectionModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:09:36.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\DAL\\IRepository\\IRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepository\\IRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\DAL\\IRepository\\IRepositoryAsync.cs",
+              "RelativeToolTip": "DAL\\IRepository\\IRepositoryAsync.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:01:55.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\DAL\\Repository\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\DbContextFactory.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\DAL\\Repository\\DbContextFactory.cs",
+              "RelativeToolTip": "DAL\\Repository\\DbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:02:16.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ErpDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\ErpDbContext.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ErpDbContext.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\ErpDbContext.cs",
+              "RelativeToolTip": "Core\\Entities\\ErpDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:54:35.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T20:48:38.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IAssiduiteService.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\IService\\IAssiduiteService.cs",
+              "RelativeDocumentMoniker": "Service\\IService\\IAssiduiteService.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\IService\\IAssiduiteService.cs",
+              "RelativeToolTip": "Service\\IService\\IAssiduiteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:14:11.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ServiceAsync.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Service\\ServiceAsync.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\ServiceAsync.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Service\\ServiceAsync.cs",
+              "RelativeToolTip": "Service\\Service\\ServiceAsync.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAcwKUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:35:11.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DepartementService.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Service\\DepartementService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\DepartementService.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Service\\DepartementService.cs",
+              "RelativeToolTip": "Service\\Service\\DepartementService.cs",
+              "ViewState": "AQIAACwBAAAAAAAAAAAcwEkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:31:30.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CongeService.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Service\\CongeService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\CongeService.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\Service\\CongeService.cs",
+              "RelativeToolTip": "Service\\Service\\CongeService.cs",
+              "ViewState": "AQIAAP8AAAAAAAAAAAAcwBwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:07:05.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IServiceAsync.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\IService\\IServiceAsync.cs",
+              "RelativeDocumentMoniker": "Service\\IService\\IServiceAsync.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\IService\\IServiceAsync.cs",
+              "RelativeToolTip": "Service\\IService\\IServiceAsync.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:36:12.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IDepartementService.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\IService\\IDepartementService.cs",
+              "RelativeDocumentMoniker": "Service\\IService\\IDepartementService.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\IService\\IDepartementService.cs",
+              "RelativeToolTip": "Service\\IService\\IDepartementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:34:42.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ICongeService.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\IService\\ICongeService.cs",
+              "RelativeDocumentMoniker": "Service\\IService\\ICongeService.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\IService\\ICongeService.cs",
+              "RelativeToolTip": "Service\\IService\\ICongeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:23:50.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RefreshTokenRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\RefreshTokenRequestDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\RefreshTokenRequestDto.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\RefreshTokenRequestDto.cs",
+              "RelativeToolTip": "Service\\DTO\\RefreshTokenRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:30:39.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Token.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Token.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Token.cs",
+              "RelativeToolTip": "Core\\Entities\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:55:05.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Supplementaire.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Supplementaire.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Supplementaire.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Supplementaire.cs",
+              "RelativeToolTip": "Core\\Entities\\Supplementaire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:55:01.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Permission.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Permission.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Permission.cs",
+              "RelativeToolTip": "Core\\Entities\\Permission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:54:46.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Horaire.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Horaire.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Horaire.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Horaire.cs",
+              "RelativeToolTip": "Core\\Entities\\Horaire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:54:36.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Conge.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Conge.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Conge.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Conge.cs",
+              "RelativeToolTip": "Core\\Entities\\Conge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:54:25.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Assiduite.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Assiduite.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Assiduite.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Core\\Entities\\Assiduite.cs",
+              "RelativeToolTip": "Core\\Entities\\Assiduite.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:08:51.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "InjectService.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\InjectService.cs",
+              "RelativeDocumentMoniker": "Service\\InjectService.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\InjectService.cs",
+              "RelativeToolTip": "Service\\InjectService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:04:55.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\Repository\\RepositoryAsync.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\Repository\\RepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\Repository\\RepositoryAsync.cs",
+              "RelativeToolTip": "Service\\DTO\\Repository\\RepositoryAsync.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:04:38.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\Repository\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "Service\\DTO\\Repository\\DbContextFactory.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DTO\\Repository\\DbContextFactory.cs",
+              "RelativeToolTip": "Service\\DTO\\Repository\\DbContextFactory.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:03:55.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Service\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\water\\OneDrive\\Bureau\\ERP Exam\\Core\\Core\\Service\\DependencyInjection.cs",
+              "RelativeToolTip": "Service\\DependencyInjection.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:03:47.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

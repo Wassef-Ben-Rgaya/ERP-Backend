@@ -1,0 +1,43 @@
+2024-06-07 21:00:45.937 +01:00 [INF] Récupération de tous les départements réussie.
+2024-06-07 21:00:46.082 +01:00 [ERR] Erreur lors de la récupération des départements : Missing map from Core.Entities.Département to Service.DTO.DepartementDto. Create using CreateMap<Département, DepartementDto>.
+2024-06-07 21:27:50.266 +01:00 [INF] Récupération de tous les départements réussie.
+2024-06-07 21:27:50.331 +01:00 [ERR] Erreur lors de la récupération des départements : Missing map from Core.Entities.Département to Service.DTO.DepartementDto. Create using CreateMap<Département, DepartementDto>.
+2024-06-07 21:27:51.543 +01:00 [INF] Récupération de tous les départements réussie.
+2024-06-07 21:27:51.581 +01:00 [ERR] Erreur lors de la récupération des départements : Missing map from Core.Entities.Département to Service.DTO.DepartementDto. Create using CreateMap<Département, DepartementDto>.
+2024-06-07 21:27:52.463 +01:00 [INF] Récupération de tous les départements réussie.
+2024-06-07 21:27:52.502 +01:00 [ERR] Erreur lors de la récupération des départements : Missing map from Core.Entities.Département to Service.DTO.DepartementDto. Create using CreateMap<Département, DepartementDto>.
+2024-06-07 21:27:53.332 +01:00 [INF] Récupération de tous les départements réussie.
+2024-06-07 21:27:53.377 +01:00 [ERR] Erreur lors de la récupération des départements : Missing map from Core.Entities.Département to Service.DTO.DepartementDto. Create using CreateMap<Département, DepartementDto>.
+2024-06-07 21:27:54.192 +01:00 [INF] Récupération de tous les départements réussie.
+2024-06-07 21:27:54.227 +01:00 [ERR] Erreur lors de la récupération des départements : Missing map from Core.Entities.Département to Service.DTO.DepartementDto. Create using CreateMap<Département, DepartementDto>.
+2024-06-07 21:27:55.067 +01:00 [INF] Récupération de tous les départements réussie.
+2024-06-07 21:27:55.104 +01:00 [ERR] Erreur lors de la récupération des départements : Missing map from Core.Entities.Département to Service.DTO.DepartementDto. Create using CreateMap<Département, DepartementDto>.
+2024-06-07 21:27:56.547 +01:00 [INF] Récupération de tous les départements réussie.
+2024-06-07 21:27:56.585 +01:00 [ERR] Erreur lors de la récupération des départements : Missing map from Core.Entities.Département to Service.DTO.DepartementDto. Create using CreateMap<Département, DepartementDto>.
+2024-06-07 21:27:57.407 +01:00 [INF] Récupération de tous les départements réussie.
+2024-06-07 21:27:57.445 +01:00 [ERR] Erreur lors de la récupération des départements : Missing map from Core.Entities.Département to Service.DTO.DepartementDto. Create using CreateMap<Département, DepartementDto>.
+2024-06-07 21:28:00.457 +01:00 [INF] Récupération de tous les départements réussie.
+2024-06-07 21:28:00.503 +01:00 [ERR] Erreur lors de la récupération des départements : Missing map from Core.Entities.Département to Service.DTO.DepartementDto. Create using CreateMap<Département, DepartementDto>.
+2024-06-07 21:31:39.016 +01:00 [INF] Récupération de tous les départements réussie.
+2024-06-07 21:31:39.060 +01:00 [ERR] Erreur lors de la récupération des départements : Missing map from Core.Entities.Département to Service.DTO.DepartementDto. Create using CreateMap<Département, DepartementDto>.
+2024-06-07 21:31:40.512 +01:00 [INF] Récupération de tous les départements réussie.
+2024-06-07 21:31:40.558 +01:00 [ERR] Erreur lors de la récupération des départements : Missing map from Core.Entities.Département to Service.DTO.DepartementDto. Create using CreateMap<Département, DepartementDto>.
+2024-06-07 21:34:41.019 +01:00 [INF] Récupération de tous les départements réussie.
+2024-06-07 21:34:41.086 +01:00 [ERR] Erreur lors de la récupération des départements : Missing map from Core.Entities.Département to Service.DTO.DepartementDto. Create using CreateMap<Département, DepartementDto>.
+2024-06-07 22:07:58.901 +01:00 [INF] Récupération de tous les départements réussie.
+2024-06-07 22:10:25.233 +01:00 [WRN] Email already exists.
+2024-06-07 22:15:16.604 +01:00 [WRN] Email already exists.
+2024-06-07 22:15:21.619 +01:00 [WRN] Email already exists.
+2024-06-07 22:17:42.537 +01:00 [WRN] Email already exists.
+2024-06-07 22:28:37.173 +01:00 [WRN] Email already exists.
+2024-06-07 22:34:15.491 +01:00 [WRN] Department does not exist.
+2024-06-07 22:34:26.267 +01:00 [INF] User paul.martdin@example.com registered successfully.
+2024-06-07 22:39:53.538 +01:00 [WRN] Invalid login attempt.
+2024-06-07 22:40:32.363 +01:00 [INF] User 8 logged in successfully.
+2024-06-07 22:52:12.129 +01:00 [INF] User 8 logged in successfully.
+2024-06-07 23:04:08.614 +01:00 [INF] User 8 logged in successfully.
+2024-06-07 23:12:32.110 +01:00 [INF] User 8 logged in successfully.
+2024-06-07 23:16:41.838 +01:00 [INF] User 8 logged in successfully.
+2024-06-07 23:21:42.422 +01:00 [INF] User 8 logged in successfully.
+2024-06-07 23:41:41.036 +01:00 [WRN] Department does not exist.
+2024-06-07 23:41:48.992 +01:00 [INF] User john@example.com registered successfully.
